@@ -1,0 +1,62 @@
+
+.nav-wrapper {
+    margin-top: 20px;
+}
+
+.banner {
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+main {
+    flex: 1 0 auto;
+  }
+
+.parallax-container {
+    min-height: 200px;
+    height: auto;
+}
+
+.proj-head {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.card .card-reveal .card-title {
+    padding-bottom: 15px;
+}
+
+.info {
+    padding-bottom: 15px;
+}
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+    color: rgb(205,99,47);
+}
+
+.plax-bottom {
+    margin-top: 45px;
+}
+
+.fa-3x {
+    padding: 5px;
+}
+
+.fa-3x:hover {
+    padding: 5px;
+    color: rgb(205,99,47);
+}
+
+.page-footer {
+    background-color: rgb(60, 100, 120);
+}
+
+.page-footer a {
+    color: rgb(141, 166, 179)
+}
